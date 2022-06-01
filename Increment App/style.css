@@ -1,0 +1,78 @@
+body{
+    background-color: #00847D;
+}
+
+.home{
+    display: block;
+    border: 3px dashed darkturquoise;
+    padding: 30px 30px 40px 30px;
+    margin: 80px 50px;  
+}
+
+h1{
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.btn{
+    text-align: justify;
+    display: inline;
+}
+
+#incre-btn{
+    width: 40%;
+    margin: 0 20px 0 25px;
+    font-family:Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    color: #042e4b;
+    padding: 15px 32px;
+    background-color: #d8d8d8;
+    border: 2px solid #04314F;
+    cursor: pointer;
+}
+#reset-btn{
+    width: 40%;
+    margin-left: 20px;
+    font-family:Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    color: #042e4b;
+    padding: 15px 32px;
+    background-color: #d8d8d8;
+    border: 2px solid #04314F;
+    cursor: pointer;
+}
+#add-btn{
+    display: inline-block;
+    width: 40%;
+    margin-left: 25px;
+    margin-top: 20px;
+    font-family:Helvetica;
+    font-size: 15px;
+    font-weight: 600;
+    color: #042e4b;
+    padding: 15px 32px;
+    background-color: #d8d8d8;
+    border: 2px solid #04314F;
+    cursor: pointer;
+}
+#add{
+    display: inline-block;
+    padding: 0px 110px;
+    font-size: 45px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+    font-family: monospace;
+    color: #ffffff;
+    font-weight: 700;
+}
